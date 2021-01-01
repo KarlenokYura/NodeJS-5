@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Yura",
+    "birth": "2000-05-16",
+    "speciality": "POIT"
+  },
+  {
+    "id": 2,
+    "name": "Liza",
+    "birth": "1999-12-14",
+    "speciality": "POIT"
+  },
+  {
+    "id": 3,
+    "name": "Senya",
+    "birth": "1999-10-26",
+    "speciality": "POIT"
+  },
+  {
+    "id": 4,
+    "name": "Lesha",
+    "birth": "2000-05-17",
+    "speciality": "POIT"
+  }
+]

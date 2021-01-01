@@ -1,0 +1,8 @@
+{
+        "comment": "Comment",
+        "x": 1,
+        "y": 2,
+        "s": "Stroka",
+        "m": ["a","b","c"],
+        "o": {"surname":"Karlenok", "name":"Yura"}
+}
